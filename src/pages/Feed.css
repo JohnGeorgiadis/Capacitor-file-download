@@ -1,0 +1,10 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+}

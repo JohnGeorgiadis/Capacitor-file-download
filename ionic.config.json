@@ -1,0 +1,7 @@
+{
+  "name": "deel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
